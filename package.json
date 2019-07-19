@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -33,5 +34,17 @@
   "devDependencies": {
     "gh-pages": "^2.0.1"
   },
-  "homepage": "http://shingaki.github.io/tamami-clicky-game"
+  "homepage": "http://shingaki.github.io/tamami-clicky-game",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shingaki/tamami-clicky-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shingaki/tamami-clicky-game/issues"
+  }
 }
