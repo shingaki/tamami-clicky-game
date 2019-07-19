@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tamami-clicky-game/static/css/main.2cce8147.chunk.css",
+    "main.js": "/tamami-clicky-game/static/js/main.2cc57c39.chunk.js",
+    "main.js.map": "/tamami-clicky-game/static/js/main.2cc57c39.chunk.js.map",
+    "runtime~main.js": "/tamami-clicky-game/static/js/runtime~main.c06a1983.js",
+    "runtime~main.js.map": "/tamami-clicky-game/static/js/runtime~main.c06a1983.js.map",
+    "static/js/2.b41502e9.chunk.js": "/tamami-clicky-game/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/tamami-clicky-game/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/tamami-clicky-game/index.html",
+    "precache-manifest.65760464c5e3abfbda56cf243b46c5bc.js": "/tamami-clicky-game/precache-manifest.65760464c5e3abfbda56cf243b46c5bc.js",
+    "service-worker.js": "/tamami-clicky-game/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/tamami-clicky-game/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/tamami-clicky-game/static/media/logo.5d5d9eef.svg"
+  }
+}
