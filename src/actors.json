@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "image": "./assets/images/brad_pitt.png",
+  "clicked": false
+},
+  {
+    "id": 2,
+    "image": "./assets/images/denzel_washington.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/emma_stone.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/george_clooney.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/halle_berry.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/jennifer_lawrence.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/johnny_depp.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/julia_roberts.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/kaya_scodelario.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/kiefer_sutherland.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/scarlett_johansson.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/winona_ryder.png",
+    "clicked": false
+  }
+]

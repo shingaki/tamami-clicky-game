@@ -1,4 +1,4 @@
 export {
     default
 }
-    from "./MatchCard";
+    from "./ActorCard";
