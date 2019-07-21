@@ -1,7 +1,7 @@
 import React from "react";
-import "./MatchCard.css";
+import "./ActorCard.css";
 
-const MatchCard = props => (
+const ActorCard = props => (
 
     <div onClick={() => props.setClicked(props.id)} className="card col-md-3">
         <div className="img-container">
@@ -10,4 +10,4 @@ const MatchCard = props => (
     </div>
 );
 
-export default MatchCard;
+export default ActorCard;
